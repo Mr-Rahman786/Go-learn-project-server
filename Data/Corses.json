@@ -7,7 +7,9 @@
         "review":"4.5",
         "enrolled":"540",
         "amount":"$120",
-        "img": "https://www.venturelessons.com/wp-content/uploads/2020/08/firebase-1128x635.jpg"
+        "img": "https://www.venturelessons.com/wp-content/uploads/2020/08/firebase-1128x635.jpg",
+        "thumbnail":"https://miro.medium.com/max/640/1*c9usUre-vT5Gq8QtmTJUAQ.png",
+        "price": "$380"
     },
     {
         "id": "02",
@@ -17,7 +19,9 @@
         "review": "5",
         "enrolled": "1000",
         "amount": "$220",
-        "img":"https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png"
+        "img":"https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
+        "thumbnail": "https://www.tutorialinhindi.in/wp-content/uploads/2022/06/Fundamentals-of-python.jpg",
+        "price": "$220"
     },
     {
         "id": "03",
@@ -27,7 +31,9 @@
         "details":"ith Ray Villalobos Liked by 102 users. Duration: 2h 35m Skill level: · Course details · Skills you'll gain. Tailwind CSS · Earn a sharable certificate.A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup ...",
         "enrolled": "380",
         "amount": "$100",
-        "img": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/7191/course_7191_image.png"
+        "img": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/7191/course_7191_image.png",
+        "thumbnail": "https://miro.medium.com/max/656/1*GRfsptj2DDa0RLHX9RH7-A.jpeg",
+        "price": "$99"
     },
     {
         "id": "04",
@@ -37,7 +43,9 @@
         "details":"Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Hands-on Learning. Cloud Labs. Offline Access. Skill Assessments. Certification Prep. Expert-Led Courses. Mobile Apps. Role IQ.",
         "amount": "$150",
         "enrolled": "740",
-        "img": "https://www.filepicker.io/api/file/S5atf80QTb2tZOScHsiW"
+        "img": "https://www.filepicker.io/api/file/S5atf80QTb2tZOScHsiW",
+        "thumbnail": "https://www.cbtnuggets.com/assets/images/og/courses/reactjs.png",
+        "price": "$300"
     },
     {
         "id": "05",
@@ -47,7 +55,9 @@
         "details":"Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Skill Assessments. Offline Access. Cloud Labs. Expert-LedStudy Cybersecurity and Ethical Hacking at Sweden's highest ranked technical university. Master's programme in Cybersecurity at Sweden's no 1 ranked technical university.",
         "amount": "$100",
         "enrolled": "300",
-        "img": "https://www.infosectrain.com/wp-content/uploads/2022/08/Phases-of-Ethical-Hacking-113.jpg"
+        "img": "https://www.infosectrain.com/wp-content/uploads/2022/08/Phases-of-Ethical-Hacking-113.jpg",
+        "thumbnail": "https://thehackernews.com/images/-LbaSHD8h0oE/YLthecoo7oI/AAAAAAAA4A8/zkE01JdQecoHSM6Kcfxy1b5I0o0f739fQCLcBGAsYHQ/s0/learn-ethical-hacking-course-certification.jpg",
+        "price": "$200"
     },
     {
         "id": "06",
@@ -56,6 +66,8 @@
         "review": "5.00",
         "details":"Learn Web Development online at your own pace. Start today and improve your skills. Find the right instructor for you. Choose from many topics, skill levels, and languages. Lifetime Access. 30-Day Money Guarantee. Over 204,000 Courses. Expert Instructors.Getting started is simple. We’ll give you everything you need to learn to code. Starting is easy. We’ll help you write your first line of code in minutes. Level Up Your Skills. Free 7 Day Pro Trial.",
         "enrolled": "1200",
-        "img": "https://miro.medium.com/max/750/1*eTuCOcn_u09KDIkEKoOhZQ.jpeg"
+        "img": "https://miro.medium.com/max/750/1*eTuCOcn_u09KDIkEKoOhZQ.jpeg",
+        "thumbnail": "https://sivesh.xyz/wp-content/uploads/2020/09/Custom-dimensions-1200x680-px-1-1.jpeg",
+        "price":"$"
     }
 ]
