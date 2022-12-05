@@ -9,7 +9,8 @@
         "amount":"$120",
         "img": "https://www.venturelessons.com/wp-content/uploads/2020/08/firebase-1128x635.jpg",
         "thumbnail":"https://miro.medium.com/max/640/1*c9usUre-vT5Gq8QtmTJUAQ.png",
-        "price": "$380"
+        "price": "$380",
+        "student": "900 students"
     },
     {
         "id": "02",
@@ -21,7 +22,8 @@
         "amount": "$220",
         "img":"https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
         "thumbnail": "https://www.tutorialinhindi.in/wp-content/uploads/2022/06/Fundamentals-of-python.jpg",
-        "price": "$220"
+        "price": "$220",
+        "student": "1000 students"
     },
     {
         "id": "03",
@@ -33,7 +35,8 @@
         "amount": "$100",
         "img": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/7191/course_7191_image.png",
         "thumbnail": "https://miro.medium.com/max/656/1*GRfsptj2DDa0RLHX9RH7-A.jpeg",
-        "price": "$99"
+        "price": "$99",
+        "student": "200 students"
     },
     {
         "id": "04",
@@ -45,7 +48,8 @@
         "enrolled": "740",
         "img": "https://www.filepicker.io/api/file/S5atf80QTb2tZOScHsiW",
         "thumbnail": "https://www.cbtnuggets.com/assets/images/og/courses/reactjs.png",
-        "price": "$300"
+        "price": "$300",
+        "student": "190 students"
     },
     {
         "id": "05",
@@ -57,7 +61,8 @@
         "enrolled": "300",
         "img": "https://www.infosectrain.com/wp-content/uploads/2022/08/Phases-of-Ethical-Hacking-113.jpg",
         "thumbnail": "https://thehackernews.com/images/-LbaSHD8h0oE/YLthecoo7oI/AAAAAAAA4A8/zkE01JdQecoHSM6Kcfxy1b5I0o0f739fQCLcBGAsYHQ/s0/learn-ethical-hacking-course-certification.jpg",
-        "price": "$200"
+        "price": "$200",
+        "student": "567 students"
     },
     {
         "id": "06",
@@ -68,6 +73,7 @@
         "enrolled": "1200",
         "img": "https://miro.medium.com/max/750/1*eTuCOcn_u09KDIkEKoOhZQ.jpeg",
         "thumbnail": "https://sivesh.xyz/wp-content/uploads/2020/09/Custom-dimensions-1200x680-px-1-1.jpeg",
-        "price":"$"
+        "price":"$167",
+        "student":"280 students"
     }
 ]
