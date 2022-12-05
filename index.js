@@ -6,7 +6,7 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const corses=require('./data/Corses.json')
+const corses = require ('./Data/corses.json')
 
 app.get('/', (req, res) => {
     res.send('news api running')
